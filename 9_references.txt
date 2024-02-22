@@ -1,0 +1,14 @@
+Idea and tropical weather data:
+https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/page/80/
+
+european weather data:
+ECA&D
+
+on dengue:
+https://www.ecdc.europa.eu/en/all-topics-z/dengue/surveillance-and-disease-
+data/autocht honous-transmission-dengue-virus-eueea
+
+others:
+https://github.com/chrisgschon/DengAI
+
+18-02-2024
